@@ -35,12 +35,12 @@ za wyższą wartość oceny rymowania się tekstu.
 
 ### Screeny z uczenia modelu
 1. Przetrenowany na wierszach, aby podawał bardziej słownictwo wierszów.
-![](Docs\Images\Zrzut ekranu 2025-12-15 200947.png)
+![](https://github.com/kubix23/AI_rhymes/blob/master/Docs/Images/Zrzut%20ekranu%202025-12-15%20200947.png)
 2. Wprowadzono  batch baseline, dodanie entropii, Normalizuj przez liczbę masków,
 zmniejszenie learning rate, zmniejszenie danych wejściowych.
-![](Docs\Images\Zrzut ekranu 2025-12-15 224142.png)
+![](https://github.com/kubix23/AI_rhymes/blob/master/Docs/Images/Zrzut%20ekranu%202025-12-15%20224142.png)
 3. Próba na samych rymach, po przetrenowaniu nadzorowanym.
-![](Docs\Images\Zrzut ekranu 2025-12-16 140209.png)
+![](https://github.com/kubix23/AI_rhymes/blob/master/Docs/Images/Zrzut%20ekranu%202025-12-16%20140209.png)
 
 ### Zadania
 
@@ -101,14 +101,14 @@ trained with reinforcement learning, being rewarded for higher rhyme evaluation 
 
 ### Model Training Screenshots
 1. Trained on poems to provide more vocabulary from the lines.  
-![](Docs\Images\Zrzut ekranu 2025-12-15 200947.png)
+![](https://github.com/kubix23/AI_rhymes/blob/master/Docs/Images/Zrzut%20ekranu%202025-12-15%20200947.png)
 
 2. Introduced batch baseline, added entropy, normalized by the number of masks,  
 reduced learning rate, and reduced input data.  
-![](Docs\Images\Zrzut ekranu 2025-12-15 224142.png)
+![](https://github.com/kubix23/AI_rhymes/blob/master/Docs/Images/Zrzut%20ekranu%202025-12-15%20224142.png)
 
 3. Attempt on rhymes only, after supervised pretraining.  
-![](Docs\Images\Zrzut ekranu 2025-12-16 140209.png)
+![](https://github.com/kubix23/AI_rhymes/blob/master/Docs/Images/Zrzut%20ekranu%202025-12-16%20140209.png)
 
 ### Tasks
 
